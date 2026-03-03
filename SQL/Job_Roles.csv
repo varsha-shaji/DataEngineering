@@ -1,0 +1,21 @@
+role_id,role_name,min_salary,max_salary
+1,Analyst,300000,600000
+2,Senior Analyst,600000,900000
+3,Manager,900000,1400000
+4,Lead,1200000,1600000
+5,Associate,250000,400000
+6,Senior Associate,400000,650000
+7,Team Lead,800000,1200000
+8,Assistant Manager,700000,1000000
+9,Project Manager,1000000,1500000
+10,Senior Manager,1400000,1800000
+11,Director,1800000,2500000
+12,Vice President,2500000,3500000
+13,HR Executive,300000,500000
+14,Finance Executive,350000,550000
+15,Marketing Executive,300000,550000
+16,Operations Executive,300000,500000
+17,Business Analyst,500000,900000
+18,Data Analyst,450000,850000
+19,Software Engineer,400000,1000000
+20,Senior Software Engineer,900000,1500000
